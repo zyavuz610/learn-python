@@ -6,4 +6,5 @@
     * [Ders-01](https://colab.research.google.com/drive/1ejPuC59knYz2XTG5Oz0YyGoCQcJb21wF?usp=sharing): Değişkenler ve Operatörler
     * [Ders-02](https://colab.research.google.com/drive/1jPWnHliiTnnAs5rkKiJcOBmn_RGYesdp?usp=sharing): Veri Türleri ve Koleksiyonlar (list,tuple,dict) 
     * [Ders-03](https://colab.research.google.com/drive/1Spu2jIsYuNlWl51SrXLXEHFcckBg2yT_?usp=sharing): Sözlük Veri Yapısı-2, Koşullu İfadeler (if,elif,else)
-    * | [Ders-04](https://colab.research.google.com/drive/1AOh-l3SWgQa4GVN7GYkYmkQYeMi3wqqD?usp=sharing) | [Ders-05](https://colab.research.google.com/drive/1ofbULa10BzgBYZXiqHhJp4WocpDx2bD2?usp=sharing) | [Ders-06](https://colab.research.google.com/drive/18rNIAri7rNuncUGEl5kiztbFBQYVB_12?usp=sharing)
+    * [Ders-04](https://colab.research.google.com/drive/1AOh-l3SWgQa4GVN7GYkYmkQYeMi3wqqD?usp=sharing): String İfadeleri ve For Döngüsü 
+    * [Ders-05](https://colab.research.google.com/drive/1ofbULa10BzgBYZXiqHhJp4WocpDx2bD2?usp=sharing) | [Ders-06](https://colab.research.google.com/drive/18rNIAri7rNuncUGEl5kiztbFBQYVB_12?usp=sharing)
