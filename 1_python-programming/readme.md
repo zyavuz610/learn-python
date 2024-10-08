@@ -9,4 +9,4 @@
     * [Ders-04](https://colab.research.google.com/drive/1AOh-l3SWgQa4GVN7GYkYmkQYeMi3wqqD?usp=sharing): String İfadeleri ve For Döngüsü 
     * [Ders-05](https://colab.research.google.com/drive/1ofbULa10BzgBYZXiqHhJp4WocpDx2bD2?usp=sharing): Tür Dönüşümü, Dilimleme, Nested Data, while döngüsü
     * [Ders-06](https://colab.research.google.com/drive/18rNIAri7rNuncUGEl5kiztbFBQYVB_12?usp=sharing): Genel Tekrar ve Problem Çözümü
-    * [Ders-07](#) _yakında_: Fonksiyonlar ve Modüler Programlama 
+    * [Ders-07](https://colab.research.google.com/drive/1i646qkuKCE7WIf7VE76_NKKCZAlFWNjy?usp=sharing): Fonksiyonlar ve Modüler Programlama 
