@@ -1,5 +1,5 @@
 # Python Öğrenme Rehberi 
-* **2024-1 (BTK Akademi,Bursa)**: Temel Python + numpy + pandas + matplotlib + yapay zeka giriş
+* **2024-1 (BTK Akademi, Bursa)**: Temel Python + numpy + pandas + matplotlib + yapay zeka giriş
   * **Google Colab Notebooks**: [python](https://colab.research.google.com/drive/10HaIDEXXuCkB5rc3-a25IqS7ZiqfApd_?usp=sharing) | [numpy](https://colab.research.google.com/drive/1qh3UGb3Mhd4JPClIzoEsllU6QIpexMkE?usp=sharing) | [pandas](https://colab.research.google.com/drive/1b3nfbn2ceCUy_SJGj7-M7AXabSSeg9FS?usp=sharing)
 * **2024-2**: Temel Python + ...
   * **Google Colab Notebooks**: 
