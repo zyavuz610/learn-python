@@ -70,5 +70,4 @@ def allPerfects(n):
     if isPerfect(i):
       print(i)
 
-
 allPrimes(100)
