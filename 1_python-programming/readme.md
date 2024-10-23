@@ -12,3 +12,4 @@
     * [Ders-07](https://colab.research.google.com/drive/1i646qkuKCE7WIf7VE76_NKKCZAlFWNjy?usp=sharing): Fonksiyonlar ve Modüler Programlama 
     * [Ders-08](https://colab.research.google.com/drive/1URoKgT0jWHg56aX88fq1iW6lqLqwBQ4y#scrollTo=51CPDG7AiXWl): Numpy giriş, dizi oluşturma ve reshape
     * [Ders-09](https://colab.research.google.com/drive/1XU9HTwyns9Apw9cCfFi6SXKcIz1IpYUu?usp=sharing): numpy dizi elemanlarına erişim, dilimleme; matematiksel işlemler, broadcasting; istatistiksel işlemler; lineer cebir
+    * [Ders-10](https://colab.research.google.com/drive/1Jy9fxkbqv0V7ptZM0vj_6w51te2AOcEC): numpy istatistiksel fonksiyonlar
