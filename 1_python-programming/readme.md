@@ -12,8 +12,14 @@
     * [Ders-07](https://colab.research.google.com/drive/1i646qkuKCE7WIf7VE76_NKKCZAlFWNjy?usp=sharing): Fonksiyonlar ve Modüler Programlama 
     * [Ders-08](https://colab.research.google.com/drive/1URoKgT0jWHg56aX88fq1iW6lqLqwBQ4y#scrollTo=51CPDG7AiXWl): Numpy giriş, dizi oluşturma ve reshape
     * [Ders-09](https://colab.research.google.com/drive/1XU9HTwyns9Apw9cCfFi6SXKcIz1IpYUu?usp=sharing): numpy dizi elemanlarına erişim, dilimleme; matematiksel işlemler, broadcasting; istatistiksel işlemler; lineer cebir
+<<<<<<< Updated upstream
     * [Ders-10-11](https://colab.research.google.com/drive/1Jy9fxkbqv0V7ptZM0vj_6w51te2AOcEC): numpy istatistiksel fonksiyonlar, broadcasting, lineer cebir
     * [Ders-12](https://colab.research.google.com/drive/1eFYNxlYetNZxovw87PddxK14xm4m7OK6?usp=sharing): pandas veri yapısına giriş
+=======
+    * [Ders-10]():
+    * [Ders-11]():
+    * [Ders-12]():
+>>>>>>> Stashed changes
     * [Ders-13]():
     * [Ders-14]():
     * [Ders-15]():
