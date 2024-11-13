@@ -15,8 +15,8 @@
 <<<<<<< Updated upstream
     * [Ders-10-11](https://colab.research.google.com/drive/1Jy9fxkbqv0V7ptZM0vj_6w51te2AOcEC): numpy istatistiksel fonksiyonlar, broadcasting, lineer cebir
     * [Ders-12](https://colab.research.google.com/drive/1eFYNxlYetNZxovw87PddxK14xm4m7OK6?usp=sharing): pandas veri yapısına giriş
-    * [Ders-13]():
-    * [Ders-14]():
+    * [Ders-13](https://colab.research.google.com/drive/1FDUEf9KvCigbdaXqhKxiWtOSiSCRiqcW?usp=sharing): pandas veri analizi
+    * [Ders-14](https://colab.research.google.com/drive/1x1z2FIJSn9fwzafmrurY21cGtCpftl5V?usp=sharing): matplotlib ile grafik çizimi
     * [Ders-15]():
     * [Ders-16]():
     * [Ders-17]():
