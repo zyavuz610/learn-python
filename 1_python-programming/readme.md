@@ -15,11 +15,6 @@
 <<<<<<< Updated upstream
     * [Ders-10-11](https://colab.research.google.com/drive/1Jy9fxkbqv0V7ptZM0vj_6w51te2AOcEC): numpy istatistiksel fonksiyonlar, broadcasting, lineer cebir
     * [Ders-12](https://colab.research.google.com/drive/1eFYNxlYetNZxovw87PddxK14xm4m7OK6?usp=sharing): pandas veri yapısına giriş
-=======
-    * [Ders-10]():
-    * [Ders-11]():
-    * [Ders-12]():
->>>>>>> Stashed changes
     * [Ders-13]():
     * [Ders-14]():
     * [Ders-15]():
