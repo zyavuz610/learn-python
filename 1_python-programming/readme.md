@@ -17,6 +17,6 @@
     * [Ders-12](https://colab.research.google.com/drive/1eFYNxlYetNZxovw87PddxK14xm4m7OK6?usp=sharing): pandas veri yapısına giriş
     * [Ders-13](https://colab.research.google.com/drive/1FDUEf9KvCigbdaXqhKxiWtOSiSCRiqcW?usp=sharing): pandas veri analizi
     * [Ders-14](https://colab.research.google.com/drive/1x1z2FIJSn9fwzafmrurY21cGtCpftl5V?usp=sharing): matplotlib ile grafik çizimi
-    * [Ders-15]():
+    * [Ders-15](https://colab.research.google.com/drive/1hHDzdReW684rGiNIAWn6r6RG8snD0UJY?usp=sharing): Temel Linux Komutları ve Github
     * [Ders-16]():
     * [Ders-17]():
