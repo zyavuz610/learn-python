@@ -51,7 +51,7 @@ bir sayı alalım:
 Problem 3
 tp = (5,2,4,8,9)
 
-min-max = 2,9
+min,max = 2,9
 eksik sayılar: 3,6,7 ekrana yaz
 
 2:**
